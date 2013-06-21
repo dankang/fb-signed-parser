@@ -1,6 +1,6 @@
 {
   "name": "fb-signed-parser",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "facebook signed request parser",
   "main": "index.js",
   "scripts": {
